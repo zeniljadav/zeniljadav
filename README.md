@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zeniljadav
-- 👀 I’m interested in Hacking and programming
-- 🌱 I’m currently learning AI and Kali 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in  programming
+- 🌱 I’m currently learning AI
 - 📫 How to reach me zeniljadav@gmail.com
 
 <!---
